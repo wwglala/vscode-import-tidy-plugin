@@ -2,8 +2,8 @@
   "name": "import-tidy-plugin",
   "displayName": "import-tidy-plugin",
   "description": "",
-  "author": "wwg",
-  "version": "0.0.1",
+  "publisher": "vscodewwgplugin",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.82.0"
   },
